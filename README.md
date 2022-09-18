@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2> Hello there </h2
+<p>My name is Quentin Pacheu, I am 19 years old and I am a student at the IIM in the Coding and digital Innovation axis.
+My two passions are football and web development.
 
-<!--
-**QuentinPacheu/QuentinPacheu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+During my first year at IIM I learned different coding languages such as:</p>
+<ul>
+<li>Python</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>PHP</li>
+<li>JavaScript</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
